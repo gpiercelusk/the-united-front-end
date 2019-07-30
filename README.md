@@ -1,4 +1,4 @@
-# Team: The United Front <end>
+# Autochef
 
 Autochef is a web application that will help you decide what you can cook.
 
